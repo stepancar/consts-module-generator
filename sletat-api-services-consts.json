@@ -1,0 +1,43 @@
+{
+	"Consts":{
+		"Urls":{
+			"Comments":"Пути в разных конфигурациях",
+			"ADS_HOST_NAME":{
+				"Comments": "Имя хоста для баннеров, рекламной информации",
+				"Release": "spo.sletat.ru",
+				"Test": "debug.ads.sletat.ru",
+				"Debug": "debug.ads.sletat.ru"
+			},
+			"CLAIMS_HOST_NAME":{
+				"Comments": "Имя хоста для claims",
+				"Release": "claims.sletat.ru",
+				"Test": "debug.claims.sletat.ru",
+				"Debug": "debug.claims.sletat.ru"
+			},
+			"GRAPH_HOST_NAME":{
+				"Comments": "Имя хоста для graph (используется для графика минимальных цен)",
+				"Release": "graph.sletat.ru",
+				"Test": "debug.graph.sletat.ru",
+				"Debug": "debug.graph.sletat.ru"
+			},
+			"MODULE_HOST_NAME": {
+				"Comments": "Имя хоста для module",
+				"Release": "module.sletat.ru",
+				"Test": "debug.module.sletat.ru",
+				"Debug": "debug.module.sletat.ru"
+			},
+			"SLETAT_HOST_NAME": {
+				"Comments": "Имя хоста для sletat.ru",
+				"Release": "sletat.ru",
+				"Test": "",
+				"Debug": ""
+			},
+			"UI_SLETAT_API_HOST_NAME":{
+				"Comments": "Имя хоста для ui.sletat.ru",
+				"Release": "ui.sletat.ru",
+				"Test": "uidev4.sletat.ru",
+				"Debug": "uidev4.sletat.ru"
+			}
+		}
+	}
+}
