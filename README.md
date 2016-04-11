@@ -1,5 +1,5 @@
 npm i consts-module-generator
-
+[attempt to solve this issue](https://github.com/Microsoft/TypeScript/issues/5376)
 comandline:
 
 node node_modules/consts-module-generator/lib/cli.js --configuration=Release --configPath=./consts-name.json
